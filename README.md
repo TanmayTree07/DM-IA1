@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HeatWave Explorer
 
 An interactive **Discrete Mathematics** dashboard built with Python and Streamlit. It takes temperature observations from different regions and uses them to demonstrate propositional logic, quantifiers, functions, relations, graphs, adjacency matrices, BFS, Warshall's algorithm, connected components and the pigeonhole principle — all computed live from the selected data.
@@ -213,3 +214,6 @@ git push origin HEAD
 ```
 
 If the repository is completely empty, `git push origin HEAD` creates its first branch. If the clone already contains files you want to keep, resolve any name clashes (`README.md`, `.gitignore`) by merging them by hand before committing.
+=======
+# heatwave-analysis
+>>>>>>> 3b572c54a4454e774af047e7a07bb57f3ce3bd89
